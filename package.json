@@ -1,0 +1,24 @@
+{
+  "name": "dclauth",
+  "version": "1.0.0",
+  "description": "Authentication handling utils",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clschalkwyk/dclauth.git"
+  },
+  "keywords": [
+    "Jwt",
+    "Authentication",
+    "Handler",
+    "Nestjs"
+  ],
+  "author": "clschalkwyk@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clschalkwyk/dclauth/issues"
+  },
+  "homepage": "https://github.com/clschalkwyk/dclauth#readme"
+}
