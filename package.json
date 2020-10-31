@@ -1,5 +1,5 @@
 {
-  "name": "dclauth",
+  "name": "@clsdcltask/dclauth",
   "version": "1.0.0",
   "description": "Authentication handling utils",
   "scripts": {
@@ -20,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/clschalkwyk/dclauth/issues"
   },
-  "homepage": "https://github.com/clschalkwyk/dclauth#readme"
+  "homepage": "https://github.com/clschalkwyk/dclauth#readme",
 }
