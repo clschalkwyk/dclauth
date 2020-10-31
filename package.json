@@ -1,5 +1,5 @@
 {
-  "name": "dclauth",
+  "name": "@clsdcltask/dclauth",
   "version": "1.0.0",
   "description": "Authentication handling utils",
   "scripts": {
